@@ -1,1 +1,1 @@
-# https://srialok.github.io/bday/.
+https://srialok.github.io/bday
